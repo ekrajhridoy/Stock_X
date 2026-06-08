@@ -1,5 +1,5 @@
-# Stock_X
-# 📈 Stock_X: An Integrated Stock, Gold & Financial News Analytics System
+# Stock_X 📈
+# An Integrated Stock, Gold & Financial News Analytics System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red.svg)
@@ -509,12 +509,7 @@ ID: 0152410013
 
 ID: 0152410016
 
----
 
-## 📜 License
 
-This project was developed for academic and educational purposes.
-
----
 
 ⭐ If you found this project useful, please consider giving it a star on GitHub!

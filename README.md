@@ -6,7 +6,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
-## 🚀 Overview
+##  Overview
 
 **Stock_X** is an AI-powered financial intelligence platform that integrates **stock market data**, **gold price information**, and **financial news analytics** into a single interactive application.
 
@@ -16,7 +16,7 @@ The system uses historical **NIFTY-50 stock market data**, gold prices, and fina
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 Stock_X aims to:
 
@@ -30,9 +30,9 @@ Stock_X aims to:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 📊 Executive Dashboard
+###  Executive Dashboard
 
 * Interactive KPI cards
 * Market trend visualization
@@ -43,7 +43,7 @@ Stock_X aims to:
 
 ---
 
-### 🔍 Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 
 Provides **100+ investor-focused analytical questions** including:
 
@@ -84,7 +84,7 @@ Each question is visualized using interactive Plotly charts and accompanied by a
 
 ---
 
-## 🤖 Machine Learning Modules
+##  Machine Learning Modules
 
 ### 1️⃣ Stock Direction Prediction
 
@@ -151,7 +151,7 @@ Outputs:
 
 ---
 
-## 📈 Forecasting & Time-Series Analytics
+##  Forecasting & Time-Series Analytics
 
 ### Future Forecasting
 
@@ -186,7 +186,7 @@ Metrics:
 
 ---
 
-## 📰 News Intelligence
+##  News Intelligence
 
 ### News Investor Assistant
 
@@ -219,9 +219,9 @@ Features:
 
 Predict whether a headline will cause:
 
-* 📈 Upward Movement
-* 📉 Downward Movement
-* ➖ Neutral Impact
+*  Upward Movement
+*  Downward Movement
+*  Neutral Impact
 
 Models:
 
@@ -231,7 +231,7 @@ Models:
 
 ---
 
-## 🧠 Explainable AI
+##  Explainable AI
 
 ### SHAP Explanations
 
@@ -251,7 +251,7 @@ Generate human-readable prediction explanations.
 
 ---
 
-## 🔄 Historical Analogues
+##  Historical Analogues
 
 Find similar historical stock patterns using:
 
@@ -268,7 +268,7 @@ Outputs:
 
 ---
 
-## 🎮 Reinforcement Learning Trading Assistant
+##  Reinforcement Learning Trading Assistant
 
 Provides intelligent trading recommendations.
 
@@ -285,7 +285,7 @@ Algorithms:
 
 ---
 
-## 💼 Smart Portfolio Construction
+##  Smart Portfolio Construction
 
 ### Portfolio Optimization
 
@@ -302,7 +302,7 @@ Features:
 
 ---
 
-## 📝 Investment Thesis Generator
+##  Investment Thesis Generator
 
 Generate evidence-based investment recommendations.
 
@@ -356,7 +356,7 @@ Based on:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Stock_X/
@@ -386,7 +386,7 @@ Stock_X/
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 Dataset Includes:
 
@@ -453,7 +453,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run Application
+## Run Application
 
 ```bash
 streamlit run main.py
@@ -463,7 +463,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 📸 Application Modules
+## Application Modules
 
 | Module                | Purpose                 |
 | --------------------- | ----------------------- |
@@ -483,7 +483,7 @@ The application will open automatically in your browser.
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * Live Market Data Integration
 * Real-Time News Streaming
@@ -499,13 +499,13 @@ The application will open automatically in your browser.
 
 ---
 
-##You Can find the project in here :
+##You Can find the project in here : ![Stock_X]()
 
 
 
 
 
-## 👨‍💻 Authors
+## Authors
 
 ### Ariful Ekraj Hridoy
 
@@ -518,4 +518,5 @@ ID: 0152410016
 
 
 
-⭐ If you found this project useful, please consider giving it a star on GitHub!
+If you found this project useful, 
+please consider giving it a star on GitHub!
